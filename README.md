@@ -24,10 +24,7 @@ Training course and certificats from ALH (Ansys Learning Hub) Structures Buildin
    - Fundamentals of Thermal Analysis with Ansys Mechanical
    - Coupled Thermal and Structural Analysis with Ansys Mechnical
 
-
-
 ### Certificate 
 
-- ![Ansys Mechanical Basics](./Ansys_ALH_Certificates/pic/2_3_56959_1730517060_Certificate%20of%20Completion.png)
-
-  
+- Ansys Mechanical Basics
+  ![Ansys Mechanical Basics](./Ansys_ALH_Certificates/pic/2_3_56959_1730517060_Certificate%20of%20Completion.png)
