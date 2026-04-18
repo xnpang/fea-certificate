@@ -1,5 +1,6 @@
-# ANSYS Learning Hub Certificates
+# ANSYS Learning Hub Certificates Gallery
 
+### Summary
 Training course and certificats from ALH (Ansys Learning Hub) Structures Building
 1. Dynamics: linear and nonlinear
 2. Explicit Dynamics:
@@ -25,7 +26,7 @@ Training course and certificats from ALH (Ansys Learning Hub) Structures Buildin
 
 
 
-## Certificate Gallery
+### Certificate 
 
 - ![Ansys Mechanical Basics](./Ansys_ALH_Certificates/pic/2_3_56959_1730517060_Certificate%20of%20Completion.png)
 
